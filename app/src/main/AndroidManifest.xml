@@ -10,6 +10,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.JugandoConActividades">
         <activity
+            android:name=".FechaActivity"
+            android:exported="true" />
+        <activity
             android:name=".SaludoActivity"
             android:exported="true" />
         <activity
